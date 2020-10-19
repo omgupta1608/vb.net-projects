@@ -1,0 +1,3 @@
+C:\Users\omgup\AppData\Local\Temporary Projects\GradeCalculator\obj\x86\Debug\GradeCalculator.Form1.resources
+C:\Users\omgup\AppData\Local\Temporary Projects\GradeCalculator\obj\x86\Debug\GradeCalculator.Resources.resources
+C:\Users\omgup\AppData\Local\Temporary Projects\GradeCalculator\obj\x86\Debug\GradeCalculator.vbproj.GenerateResource.Cache
